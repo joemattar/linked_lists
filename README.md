@@ -7,9 +7,9 @@ Node factory function containing a value function and a link to the nextNode nul
 LinkedList factory function.
 
 
-getHeadNode - function that returns the first node in the list
+getHeadNode() - function that returns the first node in the list
 
-getTailNode - function that returns the last node in the list
+getTailNode() - function that returns the last node in the list
 
 getSize() - function that returns the total number of nodes in the list
 
