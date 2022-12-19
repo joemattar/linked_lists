@@ -167,6 +167,7 @@ const LinkedList = () => {
       previousNode.nextNode = previousNode.nextNode.nextNode;
     }
     size -= 1;
+    return headNode;
   };
 
   return {
